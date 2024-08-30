@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:aliceblue;
+    padding-top: 70px;
+}
+.logo{
+    height: 50px;
+    width: auto;
+    border-radius: 30%;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+.tooltip {
+    background-color: #ffffff;
+    border: 1px solid #cccccc;
+    padding: 10px;
+    font-size: 12px;
+  }
+
+  .fa-solid.fa-solid.fa-cart-plus
+  {
+    width: 40px;
+  }
+  .btn-danger:hover {
+    font-size: 17px;
+    transition: transform 0.2s; 
+  }
+  .btn-dark:hover
+  {
+    background-color: white;
+    color: black;
+  }
+
+  .card-img-top
+  {
+    width:100%;
+    height: 250px;
+    object-fit: contain;
+  }
+  
